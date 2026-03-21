@@ -1,0 +1,41 @@
+# STM32 MATLAB Project Template Git Ignore
+
+# MATLAB generated files
+*.slxc
+*.asv
+*.mdl
+*.mexa64
+*.mexmaci64
+*.mexw64
+*.slx
+*.autosave
+
+# STM32CubeIDE generated files
+*.ioc
+*.ioctmp
+*.ioctmprsv
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.dep
+*.d
+*.a
+*.ld
+*.list
+*.srec
+*.log
+*.obj
+*.ddep
+*.ddep*
+*.ddep*
+
+# Build folders
+build/
+LED_Uygulamasi_ert_rtw/
+slprj/
+
+# System files
+.DS_Store
+Thumbs.db

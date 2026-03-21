@@ -1,0 +1,10 @@
+config load "C:\Users\playe\Documents\MATLAB\STM32\LED Uygulamasi\LED Uygulamasi.ioc"
+project toolchain STM32CubeIDE
+
+SetStructure Advanced
+
+project setCustomFWPath "C:\Users\playe\STM32Cube\Repository\STM32Cube_FW_F4_V1.28.0"
+
+project generate 
+
+exit wait
